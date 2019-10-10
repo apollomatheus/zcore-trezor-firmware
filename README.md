@@ -1,0 +1,1 @@
+# zcore-trezor-firmware
